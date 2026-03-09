@@ -27,6 +27,9 @@
     "cursor"
   ],
   "author": "j0ltdevv",
+  "contributors": [
+    "Qwen Coder (AI Assistant)"
+  ],
   "license": "MIT",
   "repository": {
     "type": "git",

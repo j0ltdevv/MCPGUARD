@@ -287,4 +287,4 @@ Report bugs and feature requests at [github.com/j0ltdevv/mcpguard/issues](https:
 
 ---
 
-**Built with ❤️ by [j0ltdevv](https://github.com/j0ltdevv)**
+**Built with ❤️ by [j0ltdevv](https://github.com/j0ltdevv) + [Qwen Coder](https://qwen.ai)**
